@@ -1,0 +1,13 @@
+#######
+# 
+# This project was cloned from github for the purpose of deploying a basic Java Web Application.
+# 
+#
+#
+
+- Link to documentation: https://medium.com/@kasunpdh/sample-java-web-application-using-servlets-and-jsp-5621cad2f582
+
+- To run: mvn tomcat7:run
+- URL: http://localhost:8080/LiquorStoreApp
+
+# Note that the "s" is removed from the hypertext
